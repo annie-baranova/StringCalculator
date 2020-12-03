@@ -1,0 +1,15 @@
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/bin/Debug/net5.0/StringCalculator.deps.json
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/bin/Debug/net5.0/StringCalculator.runtimeconfig.json
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/bin/Debug/net5.0/StringCalculator.runtimeconfig.dev.json
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/bin/Debug/net5.0/StringCalculator.dll
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/bin/Debug/net5.0/ref/StringCalculator.dll
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/bin/Debug/net5.0/StringCalculator.pdb
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.csprojAssemblyReference.cache
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.AssemblyInfoInputs.cache
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.AssemblyInfo.cs
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.csproj.CoreCompileInputs.cache
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.dll
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/ref/StringCalculator.dll
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.pdb
+/Users/Anastasia.Baranova/RiderProjects/SummerIntern/StringCalculator/obj/Debug/net5.0/StringCalculator.genruntimeconfig.cache
